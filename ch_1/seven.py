@@ -1,0 +1,1 @@
+#WAP to input the values of A and B
